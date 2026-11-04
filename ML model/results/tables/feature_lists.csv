@@ -1,0 +1,3 @@
+task,n_features,features
+SOH,10,"cycle, discharge_duration, energy_Wh, voltage_mean, voltage_min, voltage_std, current_mean, temperature_mean, temperature_max, ambient_temp_C"
+RUL,20,"cycle, soh, soh_prev, soh_delta, soh_slope_5, discharge_duration, energy_Wh, voltage_mean, voltage_min, voltage_std, current_mean, temperature_mean, temperature_max, ambient_temp_C, soh_slope_10, energy_cumsum, energy_trend_5, voltage_trend_5, dur_trend_5, soh_ema_10"
